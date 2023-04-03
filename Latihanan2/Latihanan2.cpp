@@ -7,6 +7,7 @@ struct AlamatDetail
 	string kota;
 };
 
+
 struct Mahasiswa
 {
 	string NIM;
